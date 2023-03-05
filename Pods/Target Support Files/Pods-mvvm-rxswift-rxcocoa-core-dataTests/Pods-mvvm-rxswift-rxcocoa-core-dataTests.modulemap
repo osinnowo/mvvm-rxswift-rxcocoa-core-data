@@ -1,0 +1,6 @@
+framework module Pods_mvvm_rxswift_rxcocoa_core_dataTests {
+  umbrella header "Pods-mvvm-rxswift-rxcocoa-core-dataTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

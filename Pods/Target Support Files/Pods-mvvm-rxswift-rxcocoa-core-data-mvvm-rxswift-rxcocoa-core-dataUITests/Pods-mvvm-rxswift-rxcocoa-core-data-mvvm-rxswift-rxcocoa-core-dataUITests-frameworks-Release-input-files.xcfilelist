@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-mvvm-rxswift-rxcocoa-core-data-mvvm-rxswift-rxcocoa-core-dataUITests/Pods-mvvm-rxswift-rxcocoa-core-data-mvvm-rxswift-rxcocoa-core-dataUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
